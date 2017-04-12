@@ -1,4 +1,4 @@
-#Code Dojo - FizzBuzz
+Code Dojo - FizzBuzz
 -----------------------------------
 
 First Kata
