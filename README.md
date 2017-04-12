@@ -1,8 +1,10 @@
-Code Dojo - FizzBuzz
+#Code Dojo - FizzBuzz
+-----------------------------------
 
 First Kata
 
 Test Driven Development
+-----------------------------------
 
 1- You are not allowed to write any production code unless it is to make a failing unit test pass.
 
@@ -11,6 +13,7 @@ Test Driven Development
 3- You are not allowed to write any more production code than is sufficient to pass the one failing unit test.
 
 Randori - Ping Pong
+-----------------------------------
 
 1- The driver writes the first test and then hands the keyboard to the copilot.
 
@@ -21,6 +24,7 @@ Randori - Ping Pong
 4- Repeat.
 
 Kata - FizzBuzz
+-----------------------------------
 
 1- Write a program that prints numbers.
 
@@ -31,6 +35,7 @@ Kata - FizzBuzz
 4- Multiples of both three and five print “FizzBuzz”.
 
 Kata - FizzBuzz Extended
+-----------------------------------
 
 1- Multiples of seven print “Whizz”.
 
